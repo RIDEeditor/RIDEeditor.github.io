@@ -158,4 +158,8 @@ a:after {
 	color: white
 }
 
+.carousel-indicators{
+    padding: -10px;
+    bottom: 2px;
+}
 
